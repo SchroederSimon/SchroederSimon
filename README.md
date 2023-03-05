@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon Schroeder</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 👨‍💻 All of my projects are available at [https://simon-schroeder-dev.netlify.app/](https://simon-schroeder-dev.netlify.app/)
+- 👨‍💻 My projects are available at [https://simon-schroeder-dev.netlify.app/](https://simon-schroeder-dev.netlify.app/)
 
 - 📫 How to reach me **simon.schroeder.dev@gmail.com**
 
